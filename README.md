@@ -1,1 +1,4 @@
-# free-for-gfw.github.io
+# 为科研人员与程序员准备的无限制互联网说明
+
+>由于众所周知的原因，国内访问 Github、Scholar、OpenAI 等网站会有一些困难。此处收集一些资料供大家使用。
+
